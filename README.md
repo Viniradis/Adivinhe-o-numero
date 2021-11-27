@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://img.elo7.com.br/product/original/2F57C45/poster-impresso-netflix-logo-basquete.jpg" alt="logo-netflix" width="300"> </p>
+<p align="center"> <img src="https://png.pngtree.com/element_origin_min_pic/16/10/21/277448a877a33e8d0efc778025291c86.jpg" alt="logo-netflix" width="300"> </p>
 
 
 
