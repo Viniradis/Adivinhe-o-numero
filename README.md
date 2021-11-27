@@ -30,7 +30,7 @@ Nesse projeto simples, pude colocar em pratica minhas habilidades na linguagem J
 
 <table align="center">
    <tr>
-    <td valign="top"><img src="https://media.giphy.com/media/Rhc2bqbtAp1qJgJdi2/giphy.gif" 
+    <td valign="top"><img src="https://media.giphy.com/media/YgdWzmYPukv6mJF3Wa/giphy.gif" 
 "
 "> </td>
     
