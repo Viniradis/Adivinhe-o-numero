@@ -49,3 +49,15 @@ function handleSubmit(e) {
     clear();
    }
 };
+
+function playAgain() {
+    document.getElementById('BtnRestart').style.display = 'flex';
+};
+
+function restart() {
+    document.location.reload(true);
+};
+
+function clear() {
+    document.getElementById('kick').value = '';
+};
